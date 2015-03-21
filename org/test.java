@@ -1,1 +1,1 @@
-nkjk
+class test{}
