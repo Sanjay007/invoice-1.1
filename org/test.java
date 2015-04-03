@@ -1,4 +1,8 @@
 class test{
 
-public static void main(){}
+public static void main(){
+
+syste.out.print("Hi");
+
+}
 }
